@@ -1,6 +1,6 @@
 # 23343045_Praktikum-Pemrograman-Jaringan
 
-<h1 align="center">Hi 👋, I'm Blibiiy</h1>
+<h1 align="center">Hi 👋, I'm Isra</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;React+Enthusiast+%F0%9F%92%BB;Code.+Learn.+Share." alt="Typing SVG" />
 </p>
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **ReactJS & Web Development**
+- 🌱 I’m currently learning **Node.js**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Blibiiy?tab=repositories)
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **alfattah.isra@gmail.com**
 - 💡 Fun fact: I love to learn new technologies and solve problems!
 
 ---
