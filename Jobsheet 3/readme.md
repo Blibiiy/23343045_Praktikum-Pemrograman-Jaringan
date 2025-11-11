@@ -1,4 +1,4 @@
-Laporan Praktikum 3: HTTP Request dan API
+# **Laporan Praktikum 3: HTTP Request dan API**
 
 Laporan ini mendokumentasikan pengerjaan praktikum ketiga untuk mata kuliah Pemrograman Berbasis Jaringan. Fokus dari praktikum ini adalah memahami dan mengimplementasikan panggilan HTTP Request untuk berinteraksi dengan API eksternal.
 
