@@ -1,4 +1,4 @@
-# **🚀 Laporan Praktikum 2: Node.js Module System & Command Line Arguments**
+# **Laporan Praktikum 2: Node.js Module System & Command Line Arguments**
 
 Laporan ini mendokumentasikan pengerjaan praktikum kedua untuk mata kuliah **Pemrograman Berbasis Jaringan**. Fokus dari praktikum ini adalah pendalaman dua konsep inti Node.js: **Module System** (CommonJS) dan **Command Line Arguments** (process.argv dan Yargs).
 
@@ -9,7 +9,7 @@ Laporan ini mendokumentasikan pengerjaan praktikum kedua untuk mata kuliah **Pem
 | **Penyusun** | Muhammad Isra Al Fattah |
 | **NIM** | 23343045 |
 
-## **💡 Konsep Kunci & Teori Dasar**
+## **Konsep Kunci & Teori Dasar**
 
 Modul kedua ini mencakup beberapa konsep fundamental dalam pengembangan aplikasi Node.js:
 
@@ -22,7 +22,7 @@ Modul kedua ini mencakup beberapa konsep fundamental dalam pengembangan aplikasi
   * yargs: *Package* eksternal yang jauh lebih canggih untuk *parsing* argumen dan membuat perintah (command) yang terstruktur.  
 * **Manipulasi Data JSON:** Teknik untuk menyimpan data secara persisten ke dalam file menggunakan format JSON, dengan memanfaatkan modul fs (File System) serta fungsi JSON.stringify() (object ke string) dan JSON.parse() (string ke object).
 
-## **🔬 Eksperimen dan Hasil**
+## **Eksperimen dan Hasil**
 
 Serangkaian latihan dikerjakan di dalam direktori buku-catatan.
 
@@ -79,7 +79,7 @@ Bagian terakhir adalah mengintegrasikan semua konsep untuk membuat aplikasi CLI 
 4. **Fungsi Tambahan (Latihan):**  
    * Latihan diselesaikan dengan menambahkan *command* list (mencetak semua judul catatan) dan read (mencetak isi dari satu catatan berdasarkan judul).
 
-## **✅ Kesimpulan Praktikum**
+## **Kesimpulan Praktikum**
 
 Praktikum kedua ini mencakup konsep fundamental Node.js. Dari pengerjaan praktikum, dapat disimpulkan:
 

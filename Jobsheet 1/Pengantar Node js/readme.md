@@ -1,4 +1,4 @@
-# **🚀 Laporan Praktikum 1: Pengantar Node.js**
+# **Laporan Praktikum 1: Pengantar Node.js**
 
 Repository ini mendokumentasikan pengerjaan praktikum pertama untuk mata kuliah **Pemrograman Berbasis Jaringan**. Fokus dari praktikum ini adalah untuk melakukan setup lingkungan pengembangan Node.js dan memahami konsep dasarnya sebagai platform untuk aplikasi jaringan.
 
@@ -6,10 +6,10 @@ Repository ini mendokumentasikan pengerjaan praktikum pertama untuk mata kuliah 
 | :---- | :---- |
 | **Mata Kuliah** | Pemrograman Berbasis Jaringan |
 | **Materi** | Modul 1 \- Pengantar Node.js |
-| **Penyusun** | \[Isi Nama Anda Di Sini\] |
-| **NIM** | \[Isi NIM Anda Di Sini\] |
+| **Penyusun** | \[Muhammad Isra Al Fattah\] |
+| **NIM** | \[23343045\] |
 
-## **💡 Konsep Kunci yang Dipelajari**
+## **Konsep Kunci yang Dipelajari**
 
 Sebelum memulai praktikum, materi berfokus pada beberapa konsep fundamental:
 
@@ -17,7 +17,7 @@ Sebelum memulai praktikum, materi berfokus pada beberapa konsep fundamental:
 * **Node.js sebagai Runtime:** Pemahaman bahwa Node.js bukanlah bahasa baru, melainkan sebuah **lingkungan runtime** yang memungkinkan JavaScript (yang biasanya berjalan di browser) untuk dieksekusi di sisi server.  
 * **Asinkron & Event Loop:** Keunggulan utama Node.js adalah model I/O-nya yang *non-blocking* dan asinkron. Berkat *Event Loop*, Node.js dapat menangani ribuan koneksi secara efisien tanpa harus "menunggu" satu per satu tugas selesai.
 
-## **🛠️ Setup & Verifikasi Lingkungan**
+## **Setup & Verifikasi Lingkungan**
 
 Langkah pertama adalah mempersiapkan *toolchain* (perangkat) yang diperlukan.
 
@@ -34,7 +34,7 @@ Langkah pertama adalah mempersiapkan *toolchain* (perangkat) yang diperlukan.
    v20.5.0  (atau versi lain yang terinstal)  
    9.8.0   (atau versi lain yang terinstal)
 
-## **🔬 Eksperimen dan Hasil**
+## **Eksperimen dan Hasil**
 
 Praktikum ini melibatkan dua eksperimen utama untuk menguji lingkungan Node.js.
 
@@ -91,7 +91,7 @@ Server running at \[http://127.0.0.1:3000/\](http://127.0.0.1:3000/)
 Hasil di Browser:  
 Saat mengakses http://127.0.0.1:3000 di browser, server berhasil merespons dan browser menampilkan teks Hello World.
 
-## **✍️ Analisis & Pembahasan Tugas**
+## **Analisis & Pembahasan Tugas**
 
 Praktikum ini diakhiri dengan satu pertanyaan analisis untuk memperdalam pemahaman tentang teknologi yang digunakan.
 
@@ -110,7 +110,7 @@ Praktikum ini diakhiri dengan satu pertanyaan analisis untuk memperdalam pemaham
      * **Browser:** Menjalankan skrip di sisi klien untuk memanipulasi tampilan web dan berinteraksi dengan pengguna.  
      * **Node.js:** Menjalankan skrip di sisi server untuk membangun aplikasi backend, mengelola database, dan membuat API.
 
-## **✅ Kesimpulan Praktikum**
+## **Kesimpulan Praktikum**
 
 Praktikum Modul 1 telah berhasil diselesaikan. Seluruh perangkat lunak yang dibutuhkan telah terinstal dan terverifikasi.
 
